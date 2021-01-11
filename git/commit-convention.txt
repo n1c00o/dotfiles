@@ -1,0 +1,49 @@
+# BEGINNING
+# ---------------------------------------------------------------------
+# | Header - <type>(<optional scope>): <description>   | MAX 50 chars |
+# ---------------------------------------------------------------------
+# | ~ Types:                                                          |
+# |   * feat        - A new feature                                   |
+# |   * fix         - A bug fix                                       |
+# |   * docs        - Changes to documentation only                   |
+# |   * style       - Style/format changes (whitespace, etc.)         |
+# |   * refactor    - Changes not related to a bug or feature         |
+# |   * perf        - Changes that affects performance                |
+# |   * test        - Changes that add/modify/correct tests           |
+# |   * build       - Changes to build system (configs, etc.)         |
+# |   * ci          - Changes to CI pipeline/workflow                 |
+# ---------------------------------------------------------------------
+# | The scope is generally the name of the file or the component      |
+# | changed. Scopes can be specified in the CONTRIBUTING.md file!     |
+# ---------------------------------------------------------------------
+# | Include a `!` after scope to indicate a breaking change.          |
+# | If included, the body should explain the breaking change          |
+# | and you can omit to write `BREAKING CHANGE:` in a footer.         |
+# ---------------------------------------------------------------------
+# No more than 50 chars. #### 50 chars is here: #
+
+
+# ---------------------------------------------------------------------
+# | Body - <optional body>                             | MAX 72 chars |
+# ---------------------------------------------------------------------
+# | Motivation behind changes, more detail into how                   |
+# | functionality might be affected, etc.                             |
+# ---------------------------------------------------------------------
+# Wrap at 72 chars. ################################## which is here: #
+
+
+# ---------------------------------------------------------------------
+# | Footer - <token>: <value>               | MAX 72 chars per footer |
+# ---------------------------------------------------------------------
+# | You can add many footers. Each footer should be a different line  |
+# | and should consist of a string `token` and a `value` separated    |
+# | by `: ` (one colon followed by one space).                        |
+# | Use token `BREAKING CHANGE` to specify a breaking change if not   |
+# | specified in the header and the body (using `!`)                  |
+# |                                                                   |
+# | Ex: Resolved: #15, PR: #2...                                      |
+# ---------------------------------------------------------------------
+# Wrap at 72 chars. ################################## which is here: #
+
+
+# END

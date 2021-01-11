@@ -111,7 +111,7 @@ alias gp="git push origin"
 alias gs="git status"
 
 # * CLI
-alias ls="ls --almost-all -c=auto"
+alias ls="ls --almost-all --color=auto"
 
 # * Gitignore ZSH plugin
 alias gitignore="gi"

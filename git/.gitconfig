@@ -1,0 +1,11 @@
+[user]
+      name = n1c00o
+      email = git.n1c00o@gmail.com
+[commit]
+      template = ~/commit-convention.txt
+      gpgsign = true
+[core]
+      editor = nano
+      excludesfile = ~/.gitignore_global
+      autocrlf = input
+

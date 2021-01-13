@@ -1,8 +1,5 @@
-# Plugin configurations
-# ---------------------
-
-# Abbreviations
-# -------------
+# Aliases
+# -------
 # * git
 alias ga="git add ."
 alias gc="git commit"
@@ -22,4 +19,3 @@ alias yi="yarn init"
 alias ya="yarn add"
 alias yd="yarn add -D"
 alias yga="yarn global add"
-
